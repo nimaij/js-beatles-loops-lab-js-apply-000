@@ -1,18 +1,18 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments){
-  allPlayers=[]
+  var allPlayers=[];
   for (i = 0; i < musicians.length; i++) { 
     allPlayers.push(`${musicians[i]} plays ${instruments[i]}`)
   }
-  return allPlayers
+  return allPlayers;
 }
 
 function johnLennonFacts(facts){
-  var allPlayers=[]
+  var newFacts=[];
   for (i = 0; i < facts.length; i++) { 
-    allPlayers.push(`${facts[i]}!!!"`)
+    newFacts.push(`${facts[i]}!!!"`)
   }
-  return allPlayers
+  return newFacts;
 }
 
 function iLoveTheBeatles(n){
