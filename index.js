@@ -1,4 +1,9 @@
 // add solution here
-theBeatlesPlay
+function theBeatlesPlay(musicians, instruments){
+  arr=[]
+  
+}
 
-johnLennonFacts()
+function johnLennonFacts(){
+  
+}
