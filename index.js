@@ -15,10 +15,10 @@ function johnLennonFacts(facts){
   return arr
 }
 
-function iLoveTheBeatles(number){
+function iLoveTheBeatles(n){
   arr=[]
-  do (i = 0; i < facts.length; i++) { 
-    arr.push(`${facts[i]}!!!"`)
-  } while
+  do { 
+    "I love the Beatles"
+  } while (n<15)
   return arr
 }
