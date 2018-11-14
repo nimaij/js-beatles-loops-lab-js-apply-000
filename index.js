@@ -14,3 +14,11 @@ function johnLennonFacts(facts){
   }
   return arr
 }
+
+function iLoveTheBeatles(number){
+  arr=[]
+  do (i = 0; i < facts.length; i++) { 
+    arr.push(`${facts[i]}!!!"`)
+  } while
+  return arr
+}
