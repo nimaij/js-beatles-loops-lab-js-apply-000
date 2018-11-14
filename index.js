@@ -1,10 +1,10 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments){
-  arr=[]
+  allPlayers=[]
   for (i = 0; i < musicians.length; i++) { 
-    arr.push(`${musicians[i]} plays ${instruments[i]}`)
+    allPlayers.push(`${musicians[i]} plays ${instruments[i]}`)
   }
-  return arr
+  return allPlayers
 }
 
 function johnLennonFacts(facts){
